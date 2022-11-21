@@ -15,3 +15,4 @@ installer where it says add path or it will cause an issue
 also reboot once done
 
 V3.5 added a new link to pyserial as its not installed by default
+V3.6 ADDED COLOR SCREENS AS BLACK AND WHITE IS BORING
